@@ -1,8 +1,10 @@
 
 <template>
- <h1>Hola vue JS</h1>
-<CarComposition />
+ <h1>Hola vue JS
 <CarOptions />
+<hr/>
+<CarComposition />
+</h1>
 
 
 </template>
@@ -20,7 +22,7 @@ export default {
 
 <style>
 h1 {
-  color: red;
+  font-size: 1.2rem;
 }
 </style>
 
